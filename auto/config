@@ -1,0 +1,26 @@
+#!/bin/sh
+
+set -e
+
+lb config noauto \
+	--apt apt \
+	--architectures i386 \
+	--apt-recommends false \
+	--archive-areas "main contrib non-free" \
+	--binary-images iso-hybrid \
+	--clean \
+	--debian-installer live \
+	--debian-installer-distribution jessie \
+	--debian-installer-gui true \
+	--iso-publisher moihack \
+	--distribution jessie \
+	--firmware-binary true \
+	--firmware-chroot true \
+	--ignore-system-defaults \
+	--mode debian \
+	--system live \
+	--backports true \
+	--linux-flavours 686-pae \
+	--linux-packages "linux-image linux-headers" \
+	--win32-loader true \
+"${@}"
