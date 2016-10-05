@@ -1,5 +1,5 @@
 #Win2-7MurrineAero
-gtk_color_scheme = "fg_color:#000000\nbg_color:#f0f4fa\nbase_color:#FCFCFC\ntext_color:#1A1A1A\nselected_bg_color:#4B7AB4\nselected_fg_color:#FCFCFC\ntooltip_bg_color:#f1f0fa\ntooltip_fg_color:#000000"
+gtk_color_scheme = "fg_color:#000000\nbg_color:#f0f4fa\nbase_color:#FCFCFC\ntext_color:#1A1A1A\nselected_bg_color:#4B7AB4\nselected_fg_color:#4c4c4c\ntooltip_bg_color:#f1f0fa\ntooltip_fg_color:#000000"
 #gtk_color_scheme = "fg_color:#f0f4fa\nbg_color:#ABCDEF\nbase_color:#ffffff\ntext_color:#1A1A1A\nselected_bg_color:#f0f9fa\nselected_fg_color:#000000"
 
 # menu delay
