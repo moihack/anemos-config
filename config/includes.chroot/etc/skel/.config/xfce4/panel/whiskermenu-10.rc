@@ -1,5 +1,5 @@
 favorites=firefox-esr.desktop,libreoffice-writer.desktop,audacious.desktop,qBittorrent.desktop,exo-file-manager.desktop,lxtask.desktop,exo-terminal-emulator.desktop,xfce-settings-manager.desktop
-recent=exo-file-manager.desktop,xfce-settings-manager.desktop,exo-terminal-emulator.desktop,lxtask.desktop
+recent=exo-terminal-emulator.desktop,lxtask.desktop,exo-file-manager.desktop,xfce-settings-manager.desktop
 button-title=Start
 button-icon=/usr/share/icons/anemos_whisker_logo.png
 button-single-row=false
@@ -20,14 +20,14 @@ menu-width=425
 menu-height=475
 command-settings=xfce4-settings-manager
 show-command-settings=true
-command-lockscreen=xflock4
+command-lockscreen=light-locker-command -l
 show-command-lockscreen=true
-command-switchuser=gdmflexiserver
+command-switchuser=dm-tool switch-to-greeter
 show-command-switchuser=true
 command-logout=xfce4-session-logout
 show-command-logout=true
 command-menueditor=menulibre
-show-command-menueditor=true
+show-command-menueditor=false
 search-actions=4
 
 [action0]
