@@ -1,10 +1,7 @@
 pcmanfm
-jmtpfs
-libmtp-runtime
-libmtp9
-mtp-tools
 gvfs
 gvfs-backends
+libmtp-runtime
 lxtask
 gnome-keyring
 xdg-user-dirs
