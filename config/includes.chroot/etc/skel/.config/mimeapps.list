@@ -2,8 +2,10 @@
 image/jpeg=gpicview.desktop
 image/png=gpicview.desktop
 image/bmp=gpicview.desktop
+application/pdf=atril.desktop
 
 [Added Associations]
+application/pdf=atril.desktop;
 image/jpeg=gpicview.desktop;
 image/png=gpicview.desktop;
 image/bmp=gpicview.desktop;
