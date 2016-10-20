@@ -1,4 +1,10 @@
 debian-installer
 libdebian-installer4
 libdebian-installer-extra4
+grub-pc
 grub2
+
+#if ARCHITECTURES amd64
+efibootmgr
+efivar
+#endif

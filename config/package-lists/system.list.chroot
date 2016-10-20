@@ -1,4 +1,7 @@
+#if ARCHITECTURES i386
 pcmanfm
+#endif
+
 gvfs
 gvfs-backends
 libmtp-runtime
@@ -9,3 +12,9 @@ e2fsprogs
 util-linux
 fuse
 ntfs-3g
+gcc
+make
+
+plymouth
+plymouth-x11
+plymouth-themes
