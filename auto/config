@@ -10,17 +10,15 @@ lb config noauto \
 	--binary-images iso-hybrid \
 	--clean \
 	--debian-installer live \
-	--debian-installer-distribution jessie \
+	--debian-installer-distribution stretch \
 	--debian-installer-gui true \
 	--iso-publisher moihack \
-	--distribution jessie \
+	--distribution stretch \
 	--firmware-binary true \
 	--firmware-chroot true \
 	--ignore-system-defaults \
 	--mode debian \
 	--system live \
-	--backports true \
-	--linux-flavours 686-pae \
 	--linux-packages "linux-image linux-headers" \
 	--win32-loader true \
 "${@}"

@@ -1,4 +1,5 @@
 .build
+.directory
 cache
 /config/binary
 /config/bootstrap
