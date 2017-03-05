@@ -3,4 +3,8 @@ faenza-icon-theme
 gtk2-engines-nodoka
 gtk2-engines-murrine
 gtk2-engines-pixbuf
+gtk3-engines-xfce
+greybird-gtk-theme
+bluebird-gtk-theme
+albatross-gtk-theme
 gnome-system-tools

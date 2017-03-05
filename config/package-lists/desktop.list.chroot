@@ -5,6 +5,7 @@ xfce4-session
 xfce4-settings
 xfwm4
 xfce4-notifyd
+xfce4-pulseaudio-plugin
 xfce4-power-manager
 xfce4-power-manager-plugins
 xfce4-datetime-plugin
@@ -17,7 +18,9 @@ xfce4-screenshooter
 qt4-qtconfig
 network-manager-gnome
 lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 lightdm
+pavucontrol
 arandr
 
 #if ARCHITECTURES amd64

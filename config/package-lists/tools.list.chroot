@@ -6,6 +6,7 @@ git
 ftp
 ssh
 dnsutils
+htop
 gparted
 mlocate
 software-properties-common
