@@ -1,20 +1,26 @@
-#if ARCHITECTURES i386
 pcmanfm
-#endif
-
 gvfs
 gvfs-backends
 libmtp-runtime
-lxtask
-gnome-keyring
+mtp-tools
+
+pk-update-icon
+
 xdg-user-dirs
 e2fsprogs
 util-linux
 fuse
 ntfs-3g
+
 gcc
+g++
 make
 
 plymouth
 plymouth-x11
 plymouth-themes
+
+synaptic
+
+#xserver-xorg-input-libinput
+xserver-xorg-input-synaptics

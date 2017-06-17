@@ -11,5 +11,5 @@ iproute2
 keyboard-configuration
 rsync
 uuid-runtime
-alsa-base
+pulseaudio
 alsa-utils
